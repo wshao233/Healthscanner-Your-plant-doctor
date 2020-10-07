@@ -8,7 +8,7 @@ Healthscan is based on transfer learning method with Inception architecutre and 
 
 ![alt text](https://user-images.githubusercontent.com/34289565/95389316-7ecfaf00-08a8-11eb-883b-0ff95125e42a.png)
 
-![alt text](https://user-images.githubusercontent.com/34289565/95389430-aa529980-08a8-11eb-9379-bf3f83bf769e.png)
+
 
 ## Demo
 ![alt text](https://user-images.githubusercontent.com/34289565/95389747-22b95a80-08a9-11eb-9195-e9e0d45e9140.gif)
